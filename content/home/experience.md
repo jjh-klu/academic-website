@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Kühne Logistics University (KLU)"
   company_url = ""
   location = "Hamburg, Germany"
-  date_start = "2020-07"
+  date_start = "2020-07-01"
   date_end = ""
   description = ""
 
