@@ -33,6 +33,9 @@ education:
   - course: MSc in Global Logistics
     institution: Kühne Logistics University
     year: 2014
+  - course: Exchange semester
+    institution: Namibia University of Science and Technology
+    year: 2013
   - course: BA in Aviation Management
     institution: IUBH
     year: 2012
