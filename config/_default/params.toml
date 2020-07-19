@@ -97,7 +97,7 @@ address = {street = "Großer Grasbrook 17", city = "Hamburg", region = "", postc
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "53.540441", longitude = "9.994334"}, 
+coordinates = {latitude = "53.5404", longitude = "9.9943"}, 
 
 # Directions for visitors to locate you.
 directions = ""
