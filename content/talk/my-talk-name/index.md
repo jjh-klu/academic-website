@@ -3,16 +3,16 @@
 
 title: "My Talk Name"
 event: 2020 Informs Annual Meeting 
-event_url:http://meetings2.informs.org/wordpress/annual2020/
+event_url: http://meetings2.informs.org/wordpress/annual2020/
 location: virtual
 address:
-  street:
-  city:
-  region:
-  postcode:
-  country:
-summary:
-abstract:
+#  street:
+#  city:
+#  region:
+#  postcode:
+#  country:
+summary:""
+abstract:""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
