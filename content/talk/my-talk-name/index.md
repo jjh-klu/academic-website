@@ -11,8 +11,8 @@ address:
 #  region:
 #  postcode:
 #  country:
-summary:""
-abstract:""
+summary: Test
+abstract: Test
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

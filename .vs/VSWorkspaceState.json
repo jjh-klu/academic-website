@@ -3,8 +3,9 @@
     "",
     "\\content",
     "\\content\\publication",
-    "\\content\\talk\\example"
+    "\\content\\talk",
+    "\\content\\talk\\my-talk-name"
   ],
-  "SelectedNode": "\\content\\publication\\journal-article",
+  "SelectedNode": "\\content\\talk\\my-talk-name\\index.md",
   "PreviewInSolutionExplorer": false
 }
