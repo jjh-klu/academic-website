@@ -2,7 +2,8 @@
 title: "Assessing the potential of additive manufacturing for the provision of spare parts"
 authors:
 - admin
-- Robert Ford
+- J. Jakob Heinen
+- Kai Hoberg
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
