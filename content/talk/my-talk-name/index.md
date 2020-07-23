@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My Talk Name"
+title: "Measuring The Impact Of Additive Manufacturing On Global Trade"
 event: 2020 Informs Annual Meeting 
 event_url: http://meetings2.informs.org/wordpress/annual2020/
 location: virtual
@@ -12,7 +12,7 @@ address:
 #  postcode:
 #  country:
 summary: Test
-abstract: Test
+abstract: Additive manufacturing (AM) may have a tremendous impact on replacing the global trade of goods by decentralized AM production. Therefore, the research aims to address if the diffusion of AM technology has made already a significant impact on the bilateral flow of goods that see a direct application of AM today. A unique data set is compiled to derive an accurate measure on AM installations per country for the past 20 years. We apply a gravity model and find that variables on the geographical diffusion of AM technology show no significant impact on the bilateral flow of goods for those countries that show most installations of AM machines. Additionally, we provide an estimate of the available volume capacity of AM installations per country and highlight by an illustrative example with the global container throughput that the volume lies only in the thousandth range.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
